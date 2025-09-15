@@ -81,3 +81,8 @@ yarn-error.*
 # @end expo-cli
 
 .expo/
+
+
+android/gradle.properties
+android/app/my-upload-key.keystore
+android/
