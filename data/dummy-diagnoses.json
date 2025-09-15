@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "lesionType": "Melanoma",
+    "confidence": 92,
+    "date": "2025-09-01T09:00:00Z",
+    "image": "https://dermnetnz.org/assets/collection/Atopic-dermatitis/atopic-dermatitis-0005.jpg"
+  },
+  {
+    "id": "2",
+    "lesionType": "Nail fungus",
+    "confidence": 76,
+    "date": "2025-08-28T14:30:00Z",
+    "image": "https://dermnetnz.org/assets/collection/Onychomycosis/onychomycosis-0031.jpg"
+   },
+  {
+    "id": "3",
+    "lesionType": "Acne",
+    "confidence": 88,
+    "date": "2025-08-25T11:15:00Z",
+    "image": "https://dermnetnz.org/assets/Uploads/acne/acne-face/acne-face-1-42.jpg"
+  },
+  {
+    "id": "4",
+    "lesionType": "Melanoma",
+    "confidence": 92,
+    "date": "2025-09-01T09:00:00Z",
+    "image": "https://dermnetnz.org/assets/collection/Atopic-dermatitis/atopic-dermatitis-0005.jpg"},
+  {
+    "id": "5",
+    "lesionType": "Eczema",
+    "confidence": 76,
+    "date": "2025-08-28T14:30:00Z",
+    "image": "https://dermnetnz.org/assets/collection/Onychomycosis/onychomycosis-0031.jpg"
+  },
+  {
+    "id": "6",
+    "lesionType": "Acne",
+    "confidence": 88,
+    "date": "2025-08-25T11:15:00Z",
+    "image": "https://dermnetnz.org/assets/Uploads/acne/acne-face/acne-face-1-42.jpg"
+  },
+  {
+    "id": "7",
+    "lesionType": "Melanoma",
+    "confidence": 92,
+    "date": "2025-09-01T09:00:00Z",
+    "image": "https://dermnetnz.org/assets/collection/Atopic-dermatitis/atopic-dermatitis-0005.jpg"
+  },
+  {
+    "id": "8",
+    "lesionType": "Eczema",
+    "confidence": 76,
+    "date": "2025-08-28T14:30:00Z",
+    "image": "https://dermnetnz.org/assets/collection/Onychomycosis/onychomycosis-0031.jpg"
+  },
+  {
+    "id": "9",
+    "lesionType": "Acne",
+    "confidence": 88,
+    "date": "2025-08-25T11:15:00Z",
+    "image": "https://dermnetnz.org/assets/Uploads/acne/acne-face/acne-face-1-42.jpg"
+  }
+]
