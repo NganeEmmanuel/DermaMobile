@@ -1,0 +1,12 @@
+# Node modules (rebuilt in cloud)
+node_modules/
+.vscode/
+.expo/
+.expo-shared/
+build/
+dist/
+android/
+ios/
+
+# Monorepo folders to ignore
+.git/
