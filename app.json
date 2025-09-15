@@ -3,6 +3,7 @@
     "name": "DermaAI",
     "slug": "DermaAI",
     "version": "1.0.0",
+    "entryPoint": "node_modules/expo-router/entry.js",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "dermaai",
